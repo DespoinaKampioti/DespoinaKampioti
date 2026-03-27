@@ -28,10 +28,13 @@ My goal is to bridge the gap between design and engineering, creating intuitive 
 ---
 
 ## Projects
-> Stay tuned for updates! 🔨
+- [PetCare](https://github.com/TheodoraManika/petcare) – A comprehensive redesign and implementation of the user interface of pet.gov.gr, featuring specialized dashboards for owners and veterinarians, real-time map integrations for lost pets, and a full appointment scheduling system built with React and Vite.
+- [BMW X1 Chatbot - Makeathon]([https://www.example.com](https://github.com/icyaria/makeathon )) – Hackathon project in collaboration with Smart Rep. A document-based Q&A system using LLM technology to answer questions about the BMW X1 manual. The project uses a React frontend with a chat interface, a Python FastAPI backend for LLM integration, and Docker Compose for deployment.
+- [University Management System](https://github.com/icyaria/University-Management-System) – A system to manage university data for students, professors, and courses, supporting multiple user roles like Secretary, Professor, and Student each with their own functionalities. 
+- [Ubuntu Install Simulator](https://github.com/DespoinaKampioti/ubuntu-install-simulator) – An interactive web-based simulation of the Ubuntu installation process, built with HTML, CSS, and JavaScript to guide users through real-world setup configurations for educational purposes.
 ---
 
 ## Connect With Me
-![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/despoina-kampioti)
 
 
