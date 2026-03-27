@@ -1,5 +1,4 @@
-> 🚧 **Work in Progress:** This profile is currently under construction. 
-# Welcome! 👋
+# Welcome! 🌻
 
 My name is Despoina and I'm a Computer Science student at the [Department of Informatics and Telecommunications](https://www.di.uoa.gr/) of [NKUA](https://en.uoa.gr/).
 
