@@ -27,6 +27,7 @@ My goal is to bridge the gap between design and engineering, creating intuitive 
 ---
 
 ## Projects
+> More projects to be added shortly!
 - [PetCare](https://github.com/TheodoraManika/petcare) – A comprehensive redesign and implementation of the user interface of pet.gov.gr, featuring specialized dashboards for owners and veterinarians, real-time map integrations for lost pets, and a full appointment scheduling system built with React and Vite.
 - [BMW X1 Chatbot - Makeathon](https://github.com/icyaria/makeathon) – Hackathon project in collaboration with Smart Rep. A document-based Q&A system using LLM technology to answer questions about the BMW X1 manual. The project uses a React frontend with a chat interface, a Python FastAPI backend for LLM integration, and Docker Compose for deployment.
 - [University Management System](https://github.com/icyaria/University-Management-System) – A system to manage university data for students, professors, and courses, supporting multiple user roles like Secretary, Professor, and Student each with their own functionalities. 
